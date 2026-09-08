@@ -28,13 +28,13 @@ PKGS=(
   abrt-cli abrt-dbus abrt-libs abrt-plugin-bodhi abrt-tui mcelog sos
   anaconda-core anaconda-install-env-deps anaconda-live anaconda-tui anaconda-webui livesys-scripts
   open-vm-tools open-vm-tools-desktop virtualbox-guest-additions qemu-guest-agent
-  cups cups-browsed cups-client cups-filesystem cups-filters cups-filters-driverless cups-ipptool
-  cups-libs cups-pk-helper hplip hplip-common hplip-libs
+  cups cups-browsed cups-client cups-filters cups-filters-driverless cups-ipptool
+  hplip hplip-common hplip-libs
   sane-airscan sane-backends sane-backends-drivers-cameras sane-backends-drivers-scanners sane-backends-libs
   simple-scan
   gnome-boxes gnome-weather gnome-maps gnome-contacts gnome-connections gnome-tour gnome-user-docs
-  yelp yelp-libs yelp-xsl gnome-online-accounts gnome-online-accounts-libs
-  malcontent malcontent-control malcontent-libs malcontent-ui-libs gnome-initial-setup
+  yelp yelp-libs yelp-xsl
+  gnome-initial-setup
   totem-pl-parser evince-djvu
 )
 

@@ -18,5 +18,3 @@ This script, is focused on the Fedora GNOME workstation, others are not really "
 # Thanks
 
 Thanks to all users and contributors to this script.
-
-```
